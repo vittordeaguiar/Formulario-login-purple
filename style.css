@@ -116,12 +116,40 @@ body * {
 
 @media only screen and (max-width: 950px) {
     .card-login {
-        width: 85%;
+        width: 150%;
+        height: 80%;
+    }
+
+    .main-login {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .left-login > img {
+        width: 150%;
+    }
+
+    .textfield>input {
+        width: 80%;
+        display: flex;
+        position: relative;
+        margin: auto;
+    }
+
+    .btn-login {
+        width: 80%;
+    }
+
+    .textfield > label {
+        width: 100%;
+        display: flex;
+        margin: 10px 10%;
     }
 }
 
 @media only screen and (max-width: 600px) {
     .main-login {
+        width: 100vw;
         flex-direction: column;
     }
 
@@ -136,11 +164,11 @@ body * {
 
     .right-login {
         width: 100%;
-        height: auto;
+        height: 100%;
     }
 
-    .left-login-image {
-        width: 50vh;
+    .left-login > img {
+        width: 100%;
     }
 
     .card-login {
