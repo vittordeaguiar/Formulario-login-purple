@@ -1,21 +1,39 @@
 # Purple Login Form
-- Login form with a purple theme
-- Responsive design for smaller devices
+
+This project consists of a login form with a purple theme. The goal is to provide an attractive and stylized interface for the login page.
+
+## Features
+
+- Responsive design that adapts to different device sizes.
+- Use of purple colors for a visually pleasing aesthetic.
+- Fields to enter username and password.
+- Login button to submit the entered information.
 - Test the website here: [https://vittoraguiar.github.io/Formulario-login-purple/](https://vittoraguiar.github.io/Formulario-login-purple/)
-<br></br>
-- Larger devices
-<p align="center"><img src="./login-gif-lg.gif" alt="login-gif" width="1024px" height="600px"></p>
-<br></br>
-- Smaller devices
-<p align="center"><img src="./login-gif-sg.gif" alt="login-gif" height="768px"></p>
+
+## Screenshots
+
+### Larger devices
+![Screenshot on larger devices](./login-gif-lg.gif)
+
+### Smaller devices
+![Screenshot on smaller devices](./login-gif-sg.gif)
 
 # Formulário de Login Roxo
-- Formulário de login com tema roxo
-- Design responsivo para dispositivos menores
+
+Este projeto consiste em um formulário de login com um tema roxo. O objetivo é fornecer uma interface atraente e estilizada para a página de login.
+
+## Recursos
+
+- Design responsivo que se adapta a dispositivos de diferentes tamanhos.
+- Utilização de cores roxas para uma estética visualmente agradável.
+- Campos para inserir nome de usuário e senha.
+- Botão de login para enviar as informações inseridas.
 - Teste o site aqui: [https://vittoraguiar.github.io/Formulario-login-purple/](https://vittoraguiar.github.io/Formulario-login-purple/)
-<br></br>
-- Dispositivos maiores
-<p align="center"><img src="./login-gif-lg.gif" alt="login-gif" width="1024px" height="600px"></p>
-<br></br>
-- Dispositivos menores
-<p align="center"><img src="./login-gif-sg.gif" alt="login-gif" height="768px"></p>
+
+## Capturas de Tela
+
+### Dispositivos maiores
+![Captura de tela em dispositivos maiores](./login-gif-lg.gif)
+
+### Dispositivos menores
+![Captura de tela em dispositivos menores](./login-gif-sg.gif)
