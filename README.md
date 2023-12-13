@@ -8,7 +8,7 @@ This project consists of a login form with a purple theme. The goal is to provid
 - Use of purple colors for a visually pleasing aesthetic.
 - Fields to enter username and password.
 - Login button to submit the entered information.
-- Test the website here: [https://vittoraguiar.github.io/Formulario-login-purple/](https://vittoraguiar.github.io/Formulario-login-purple/)
+- Test the website here: [https://vittordeaguiar.github.io/Formulario-login-purple/](https://vittoraguiar.github.io/Formulario-login-purple/)
 
 ## Screenshots
 
@@ -28,7 +28,7 @@ Este projeto consiste em um formulário de login com um tema roxo. O objetivo é
 - Utilização de cores roxas para uma estética visualmente agradável.
 - Campos para inserir nome de usuário e senha.
 - Botão de login para enviar as informações inseridas.
-- Teste o site aqui: [https://vittoraguiar.github.io/Formulario-login-purple/](https://vittoraguiar.github.io/Formulario-login-purple/)
+- Teste o site aqui: [https://vittordeaguiar.github.io/Formulario-login-purple/](https://vittoraguiar.github.io/Formulario-login-purple/)
 
 ## Capturas de Tela
 
